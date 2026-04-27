@@ -26,6 +26,17 @@ Credzaar simplifies gold loans by:
 
 ## Features (MVP)
 
+## Product Screenshots
+
+### Dashboard
+![Dashboard]([PASTE_LINK_HERE](https://github.com/productsgreat1-spec/Credzaar/blob/main/1000115272.jpg?raw=true))
+
+### Comparison View
+![Comparison]([PASTE_LINK_HERE](https://github.com/productsgreat1-spec/Credzaar/blob/main/1000115272.jpg?raw=true))
+
+### Loan Breakdown
+![Loan Breakdown]([PASTE_LINK_HERE](https://github.com/productsgreat1-spec/Credzaar/blob/main/1000115272.jpg?raw=true))
+
 - Gold loan comparison dashboard
 - Interest rate breakdown
 - Lender listing (banks & NBFCs)
